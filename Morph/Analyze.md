@@ -52,7 +52,7 @@ SuffixGender | enum as string |
 SuffixPlural | enum as string | 
 SuffixPerson |  enum as string | 
 
-### Shaibud
+### Shiabud
 1. NONE (אף אחד)
 2. SHE (ש...)
 3. KSHE (כש...)
@@ -83,7 +83,7 @@ SuffixPerson |  enum as string |
 12. MODAL (פועל עזר)
 13. PROPER_NOUN (שם פרטי)
 
-### PartOfSpeech
+### Gender
 1. NONE (אף אחד)
 2. MALE (זכר)
 3. FEMALE (נקבה)
