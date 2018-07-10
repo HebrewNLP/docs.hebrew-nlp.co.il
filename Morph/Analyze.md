@@ -16,7 +16,7 @@ Analyzation gives you:
 11. Suffix (ownership) gender, plural and person (שיכות)
 
 ## Endpoint
-https://hebrew-nlp.co.il/service/morphology/normalize
+https://hebrew-nlp.co.il/service/morphology/analyze
 
 ## Parameters
 Field | Type | Description
