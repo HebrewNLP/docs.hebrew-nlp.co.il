@@ -89,9 +89,11 @@ SuffixPerson |  enum as string |
 3. FEMALE (נקבה)
 
 ### Person
-1. FIRST_PERSON (גוף ראשון)
-2. SECOND_PERSON (גוף שני)
-3. THIRD_PERSON (גוף שלישי)
+1. NONE (אין)
+2. ALL (כל האפשרויות)
+3. FIRST_PERSON (גוף ראשון)
+4. SECOND_PERSON (גוף שני)
+5. THIRD_PERSON (גוף שלישי)
 
 ### Smikut
 1. NONE (אין)
