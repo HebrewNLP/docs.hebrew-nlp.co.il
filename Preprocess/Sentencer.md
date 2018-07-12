@@ -1,6 +1,6 @@
 # Sentencer
 
-This API allows you to split text into sentences. 
+This API allows you to split text into sentences.
 
 ## Endpoint
 https://hebrew-nlp.co.il/service/preprocess/sentencer
