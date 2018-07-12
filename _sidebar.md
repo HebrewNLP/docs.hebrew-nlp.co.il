@@ -2,3 +2,5 @@
 - Morphology
 	- [Normalize](Morph/Normalize.md)
 	- [Analyze](Morph/Analyze.md)
+- Preprocess
+	- [Sentencer](Preprocess/Sentencer.md)
