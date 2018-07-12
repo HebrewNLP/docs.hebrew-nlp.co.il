@@ -1,4 +1,4 @@
-- [Getting Started](GettingStarted.md)
+- [Getting Started](README.md)
 - Morphology
 	- [Normalize](Morph/Normalize.md)
 	- [Analyze](Morph/Analyze.md)
