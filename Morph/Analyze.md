@@ -48,9 +48,9 @@ Plural | boolean | Is Plural (true) or Single (false)
 Person | enum as string | 
 Smikut | enum as string | 
 Tense | enum as string | 
-SuffixGender | enum as string | 
-SuffixPlural | enum as string | 
-SuffixPerson |  enum as string | 
+OwnershipGender | enum as string | 
+OwnershipPlural | enum as string | 
+OwnershipPerson |  enum as string | 
 
 ### Shiabud
 1. NONE (אף אחד)
