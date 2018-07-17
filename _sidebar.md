@@ -4,3 +4,4 @@
 	- [Analyze](Morph/Analyze.md)
 - Preprocess
 	- [Sentencer](Preprocess/Sentencer.md)
+- [Soundex](Soundex.md)
