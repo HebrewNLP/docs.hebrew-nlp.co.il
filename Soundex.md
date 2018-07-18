@@ -1,4 +1,4 @@
-# Soundex
+# Multi-Lingual Soundex
 
 The Soundex returns a possible phonetic codes for both Hebrew and English words, it is intended to work with names but will also work on any other english/hebrew word.
 
