@@ -6,3 +6,4 @@
 	- [Sentencer](Preprocess/Sentencer.md)
 	- [Tokenizer](Preprocess/Tokenizer.md)
 - [Multi-Lingual Soundex](Soundex.md)
+- [English-Hebrew Name Translation](NameTranslation.md)
