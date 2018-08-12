@@ -4,7 +4,7 @@ The service allows you to enter a name in english and get it's translation in He
 
 
 ## Endpoint
-https://hebrew-nlp.co.il/service/translation/names
+https://hebrew-nlp.co.il/service/names/translation
 
 ## Parameters
 Field | Type | Description

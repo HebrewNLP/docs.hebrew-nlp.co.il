@@ -5,5 +5,7 @@
 - Preprocess
 	- [Sentencer](Preprocess/Sentencer.md)
 	- [Tokenizer](Preprocess/Tokenizer.md)
+- Names
+	- [English-Hebrew Name Translation](Names/NameTranslation.md)
+	- [Hebrew Name Analyzer](Names/NameAnalyzer.md)
 - [Multi-Lingual Soundex](Soundex.md)
-- [English-Hebrew Name Translation](NameTranslation.md)
