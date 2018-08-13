@@ -8,4 +8,6 @@
 - Names
 	- [English-Hebrew Name Translation](Names/NameTranslation.md)
 	- [Hebrew Name Analyzer](Names/NameAnalyzer.md)
+- Named Entity Recognition
+	- [Cities](Ner/Cities.md)
 - [Multi-Lingual Soundex](Soundex.md)
