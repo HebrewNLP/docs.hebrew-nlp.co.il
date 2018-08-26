@@ -39,20 +39,20 @@ Field | Type | Description
 ------|------|-------------
 BaseWord | string | The normalized word
 Vav | boolean | Has vav?
-Shaibud | enum as string |
+Subordination   | enum as string |
 PrepositionChars | enum as string | 
 DefiniteArticle | boolean | has difinitive article
 PartOfSpeech | enum as string | 
 Gender | enum as string | 
 Plural | boolean | Is Plural (true) or Single (false)
 Person | enum as string | 
-Smikut | enum as string | 
+ConstructState | enum as string | 
 Tense | enum as string | 
 OwnershipGender | enum as string | 
 OwnershipPlural | enum as string | 
 OwnershipPerson |  enum as string | 
 
-### Shiabud
+### Subordination  
 1. NONE (אף אחד)
 2. SHE (ש...)
 3. KSHE (כש...)
@@ -95,7 +95,7 @@ OwnershipPerson |  enum as string |
 4. SECOND_PERSON (גוף שני)
 5. THIRD_PERSON (גוף שלישי)
 
-### Smikut
+### ConstructState
 1. NONE (אין)
 2. NIFRAD (נפרד)
 3. NISMAK (נסמך)
