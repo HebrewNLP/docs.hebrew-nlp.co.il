@@ -1,8 +1,8 @@
-# Cities Named Entity Recognition
+# Named Entity Recognition
 
-This API allows you to tag words in a text as cities.
+This API allows you to tag words in a text as entities (in the past we only suppoerted cities but now we more etities types).
 
-The service can also distinguish between real city names and city names that are a part of a phrase, for example `מעגלים` is a name of a city, but it can also be part of the phrase `מעגלים חשמליים`. The service knows that and will not return it as a city name if it is part of another phrase.
+The service can also distinguish between real entity names and entity names that are a part of a phrase, for example `מעגלים` is a name of a city, but it can also be part of the phrase `מעגלים חשמליים`. The service knows that and will not return it as a city name if it is part of another phrase.
 
 ## Endpoint
 https://hebrew-nlp.co.il/service/ner/cities
